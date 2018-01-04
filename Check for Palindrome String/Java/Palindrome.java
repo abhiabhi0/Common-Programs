@@ -1,3 +1,5 @@
+//Abhishek Singh Thakur
+//www.programmercave.blogspot.com
 import java.util.Scanner;
 
 public class Palindrome
