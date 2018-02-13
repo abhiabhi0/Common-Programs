@@ -54,7 +54,7 @@ void show_bits(const std::vector<int>& vec)
 
 int main()
 {
-   int n1, n2, val;
+   int n1, n2;
    std::cout << "Enter the  number of bits for first binary numbers \n";
    std::cin >> n1;
    std::cout << "Enter the  number of bits for second binary numbers \n";
